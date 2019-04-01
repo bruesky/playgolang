@@ -1,7 +1,11 @@
 package main
 
-import "hello"
+import (
+	"first"
+	"fmt"
+)
 
 func main() {
-	hello.Hi()
+	first.SayHi()
+	fmt.Println(first.Add(2, 7))
 }
