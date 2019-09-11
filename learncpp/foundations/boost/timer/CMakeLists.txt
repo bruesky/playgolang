@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+set(CMAKE_CXX_STANDARD 14)
+project(boost_timer)
+file(GLOB SRC *.h *.hpp *.cpp *.cc *.c )
+add_executable(${PROJECT_NAME} ${SRC})
+include_directories(/usr/local/Cellar/boost/1.67.0_1/include)

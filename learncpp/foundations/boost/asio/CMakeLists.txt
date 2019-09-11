@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+set(CMAKE_CXX_STANDARD 14)
+project(boost_asio)
+file(GLOB SRC *.h *.hpp *.cpp *.cc *.c )
+add_executable(${PROJECT_NAME} ${SRC})
+target_link_libraries(${PROJECT_NAME} libboost_system.a libboost_thread-mt.a)

@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.12)
+set(CMAKE_CXX_STANDARD 14)
+project(cpptest)
+
+add_subdirectory(hello)
+add_subdirectory(moderncpp)
+add_subdirectory(template)
+add_subdirectory(courses)
+add_subdirectory(algo)
+add_subdirectory(cache)
