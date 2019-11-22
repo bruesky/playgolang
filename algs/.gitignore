@@ -1,9 +1,0 @@
-.idea/
-target/
-*.iml
-*.class
-out/
-venv/
-.idea
-cmake-build-debug
-.DS_Store
