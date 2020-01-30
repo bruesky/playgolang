@@ -1,0 +1,11 @@
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.deps.json
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.runtimeconfig.json
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.runtimeconfig.dev.json
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.dll
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.pdb
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.csprojAssemblyReference.cache
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.AssemblyInfo.cs
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.dll
+/Users/Xiangkui/Documents/Workspace/playground/LearnCSharp/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.pdb
