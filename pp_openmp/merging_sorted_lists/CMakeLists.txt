@@ -1,0 +1,1 @@
+add_executable(merging_sorted_lists main.cpp)

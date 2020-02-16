@@ -1,0 +1,1 @@
+add_executable(log_of_arr main.cpp)
